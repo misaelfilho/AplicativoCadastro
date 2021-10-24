@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Criação do sistema de Login
-=======
 Foi realizado alterações no campo senha: funcionalidade do campo com letras e números
->>>>>>> retificarlogin
